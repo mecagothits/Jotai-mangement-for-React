@@ -118,3 +118,5 @@ Note about functional programming
 
 Jotai's fluid interface is no accident — atoms are monads, just like promises! Monads are an established pattern for modular, pure, robust and understandable code which is optimized for change. Read more about Jotai and monads.
 
+
+link: https://jotai.org
